@@ -1,6 +1,6 @@
 # SPA Vanilla
 
-Single Page Application with Vanilla JavaScript
+Single Page Application con Vanilla JavaScript
 
 ### Instalación 🔧
 
